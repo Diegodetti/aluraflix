@@ -1,6 +1,6 @@
 body {
     color: Black;
-    background: sienna;
+    background: tan;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -11,7 +11,7 @@ header {
     ;
     padding: 20px;
     font-size: 32px;
-    color: sienna
+    color: Sienna
     ;
 }
 
@@ -54,7 +54,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid lightpink;
 }
 
 .categoria h2 {
