@@ -1,17 +1,17 @@
 body {
     color: Black;
-    background: BurlyWood;
+    background: sienna;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px Tan
+    border-bottom: solid 2px sienna
     ;
     padding: 20px;
     font-size: 32px;
-    color: Tan
+    color: sienna
     ;
 }
 
